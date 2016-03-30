@@ -1,0 +1,11 @@
+ClearCase CopyAreaDB|4
+bh.01\bh-javamail\lwp\solrsearch\eclipse\plugins\com.ibm.domino.services.solrsearch\src\com\ibm\domino\services\solrsearch\resources
+2
+7
+7:mappers|2|0|0|0|d8d6a91400a348d6bcddb8d4b791fb55|0
+13:RestAPI2Mapper.java|1|151321f39ca|ceb2|c6ccd804|c8b07cc614b84e03ba75c6faca8e991c|0
+16:RestAPIBaseMapper.java|1|151321f3760|23d9|3bdba7fc|40bcaa40d0b9471fb1c6edb21f3fae09|0
+12:RestAPIMapper.java|1|14fa0c46fc0|540f|e67479f9|6e7c415f29f64c4e858535fff0bcb7ed|0
+14:SearchConstants.java|1|151321f366d|3fa9|30047051|0d3cad967e2a4e9bbb7cc8e99847bbdd|0
+12:SearchRequest.java|1|151321f3990|34c3|51003723|e362c0fca24542538ff8ad38559811d9|0
+13:SearchResource.java|1|151321fd0fd|16f6f|eb0c0960|e4058aad1e2f4cacb7f0d3d5a942d5ab|0
